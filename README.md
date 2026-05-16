@@ -1,19 +1,32 @@
-## I'm Angela
+## Hi there, I'm Angela
 
 ## About Me
-I am an aspiring **Data Analyst** and **Business Analyst**
+Aspiring **Data and Business Analyst** with exposure to software development, data processing, and technical documentation through academic, internship, and project-based experience.
 
-<!--
-**a009n/a009n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Currently Working On
+- Building a **Superstore Sales Dashboard in Power BI** to analyze sales, profit, and regional performance
+- Performing **SQL data cleaning and exploratory data analysis (EDA)** on structured datasets
+-  Developing **business insights reports using Excel and Power BI** for portfolio improvement  
 
-Here are some ideas to get you started:
+## Currently Learning
+- Advanced **SQL techniques for data analysis and optimization**
+- **Python (Pandas)** for data cleaning and exploratory data analysis
+- **Power BI DAX measures and data modeling**
+- Fundamentals of **Business Analysis and KPI development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I Use
+`SQL` `MySQL Workbench` `Google Colab` `Python` `Excel` `Power BI` `Looker Studio` `GitHub`
+
+## Technical Skillset
+
+### Data Analysis & Visualization
+`SQL` • `Power BI` • `Excel` • `Tableau (Basic)`
+
+### Programming & Data Handling
+`Python (Pandas, NumPy - Basic)` • `SQL (MySQL Workbench)`
+
+### Business Intelligence & Analytics
+`Data Cleaning` • `Data Visualization` • `Reporting` • `KPI Development` • `Basic Statistical Analysis` • `Business Insights` • `Project Documentation` 
+
+
+
