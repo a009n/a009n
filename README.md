@@ -4,15 +4,14 @@
 Aspiring **Data and Business Analyst** with exposure to software development, data processing, and technical documentation through academic, internship, and project-based experience.
 
 ## What I'm Currently Working On
-- Building a **Superstore Sales Dashboard in Power BI** to analyze sales, profit, and regional performance
 - Performing **SQL data cleaning and exploratory data analysis (EDA)** on structured datasets
--  Developing **business insights reports using Excel and Power BI** for portfolio improvement  
+- Building a **Superstore Sales Dashboard in Power BI** to analyze sales, profit, and regional performance
+- Developing **business insights reports using Excel and Power BI** for portfolio improvement  
 
 ## Currently Learning
 - Advanced **SQL techniques for data analysis and optimization**
 - **Python (Pandas)** for data cleaning and exploratory data analysis
 - **Power BI DAX measures and data modeling**
-- Fundamentals of **Business Analysis and KPI development**
 
 ## Tools I Use
 `SQL` `MySQL Workbench` `Google Colab` `Python` `Excel` `Power BI` `Looker Studio` `GitHub`
