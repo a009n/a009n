@@ -1,5 +1,3 @@
-## Hi there, I'm Angela
-
 ## About Me
 Aspiring **Data and Business Analyst** with exposure to software development, data processing, and technical documentation through academic, internship, and project-based experience.
 
