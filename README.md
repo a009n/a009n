@@ -1,4 +1,7 @@
-## Hi there 👋
+## I'm Angela
+
+## About Me
+I am an aspiring **Data Analyst** and **Business Analyst**
 
 <!--
 **a009n/a009n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
