@@ -4,7 +4,7 @@ Aspiring **Data and Business Analyst** with exposure to software development, da
 ## What I'm Currently Working On
 - Performing **SQL data cleaning and exploratory data analysis (EDA)** on structured datasets
 - Building a **Superstore Sales Dashboard in Power BI** to analyze sales, profit, and regional performance
-- Developing **business insights reports using Excel and Power BI** for portfolio improvement  
+- Making a repositories for **Queries** to improve the data analysing
 
 ## Currently Learning
 - Advanced **SQL techniques for data analysis and optimization**
@@ -12,7 +12,7 @@ Aspiring **Data and Business Analyst** with exposure to software development, da
 - **Power BI DAX measures and data modeling**
 
 ## Tools I Use
-`SQL` `MySQL Workbench` `Google Colab` `Python` `Excel` `Power BI` `Looker Studio` `GitHub`
+`SQL` `MySQL Workbench` `Google Colab` `Python` `Excel` `Power BI` `Looker Studio` `GitHub` `XAMPP`
 
 ## Technical Skillset
 
